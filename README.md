@@ -1,6 +1,6 @@
 # Problem Set 3
 
-### Due Friday 9/16 @ 11:59pm EDT
+### Due Monday 9/19 @ 11:59pm EDT
 
 For this problem set, you will submit to Canvas **a single .zip file**. Detailed instructions for what the .zip file should contain are at the end of this problem set. Note that if you do not submit the files as specified here, there will be a major deduction in your grade for this assignment. Following directions to the letter is a crucial skill for computer programming.
 
@@ -95,7 +95,7 @@ Note that if you do not submit the files as specified here, there will be a majo
 
 **Don't forget your comments!**
 
-### This problem set is due Friday 9/16 @ 11:59pm EDT
+### This problem set is due Monday 9/19 @ 11:59pm EDT
 
 
 
